@@ -1,0 +1,524 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.top {
+    width: 100%;
+    height: 72px;
+    display: flex;
+}
+
+.logo {
+    width: 5%;
+    height: 50px;
+    background: #0068b5;
+    padding-top: 19px;
+    padding-left: 14px;
+    overflow: hidden;
+}
+
+.top-center {
+    width: 87%;
+    height: 100%;
+    background: #fff;
+    padding-left: 30px;
+    display: flex;
+
+}
+
+.top-right {
+    width: 45%;
+    height: 100%;
+    display: flex;
+}
+
+.one {
+    width: 115px;
+    height: 100%;
+    padding-top: 5px;
+    color: #0068b5;
+    font-family: inherit;
+}
+
+.two {
+    width: 115px;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 5px;
+    color: #0068b5;
+    border-bottom: blue;
+
+}
+
+.r1 {
+    width: 30px;
+    height: 40%;
+    background: url(/project1/images/personal_1.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 25px;
+}
+
+.r2 {
+    width: 170px;
+    height: 52px;
+    background: #fff;
+    padding-top: 20px;
+    color: #0068b5;
+    font-size: xx-small;
+    background: url(/project1/images/network.png);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    position: relative;
+    top: 25px;
+    left: 15px;
+}
+
+.r2-txt {
+    position: relative;
+    left: 30px;
+    bottom: 28px;
+    font-size: 12px;
+}
+
+.r3 {
+    width: 40px;
+    height: 100%;
+    background: url(/project1/images/search.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 25px;
+}
+
+.r4 {
+    width: 240px;
+    height: 100%;
+}
+.r4 form {
+    position: relative;
+    top: 12px;
+}
+
+.second {
+    width: 100%;
+    height: 400px;
+    background: url(/project1/images/homepage-marquee-bg-blue-steel.jpg.rendition.intel.web.1648.927.webp);
+    background-repeat: no-repeat;
+    display: flex;
+    border-bottom: 20px solid;
+    border-bottom-color: #fff;
+}
+
+.text-box {
+    width: 480px;
+    height: 320px;
+    margin-top: 90px;
+    margin-left: 160px;
+    display: flex;
+}
+
+.img-box {
+    width: 670px;
+    height: 360px;
+    margin-top: 50px;
+    background: url(/project1/images/diversity-colleagues-watching-laptop.jpg.rendition.intel.web.864.486.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.small {
+    width: 40px;
+    height: 40px;
+    margin-top: 280px;
+    background: #0068b5;
+}
+
+.text {
+    width: 450px;
+    height: 280px;
+    background: #0068b5;
+    color: #fff;
+    padding-left: 30px;
+}
+
+.heading {
+    font-size: 40px;
+}
+
+.subline {
+    font-size: 18px;
+}
+
+.learn-box {
+    width: 170px;
+    height: 40px;
+    background: #fff;
+    color: #0068b5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.third {
+    width: 100%;
+    height: 100px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+.ts {
+    position: relative;
+    top: 20px;
+    right: 15px;
+    color: #262626;
+}
+
+.sp1 {
+    width: 180px;
+    height: 100px;
+    background: url(/project1/images/icon-mis.png);
+    background-size: 40px;
+    background-repeat: no-repeat;
+}
+
+.sp2 {
+    width: 180px;
+    height: 100px;
+    background: url(/project1/images/33_-Check_List-_document_paper_write_note-512.webp);
+    background-size: 30px;
+    background-repeat: no-repeat;
+}
+
+.sp3 {
+    width: 180px;
+    height: 100px;
+    background: url(/project1/images/WebIcons-mySTUFF.png);
+    background-size: 40px;
+    background-repeat: no-repeat;
+}
+
+.sp4 {
+    width: 180px;
+    height: 100px;
+    background: url(/project1/images/group.png);
+    background-size: 40px;
+    background-repeat: no-repeat;
+}
+
+.sp5 {
+    width: 180px;
+    height: 100px;
+    background: url(/project1/images/download.png);
+    background-size: 40px;
+    background-repeat: no-repeat;
+}
+
+section {
+    width: 100%;
+    height: 1050px;
+    background: #fff;
+    display: flex;
+    padding-left: 200px;
+}
+
+.s1 {
+    width: 318px;
+    height: 980px;
+    display: flex;
+    flex-direction: column;
+}
+
+.s1-1 {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.s1-img {
+    width: 100%;
+    height: 50%;
+    background: url(/project1/images/arc-sigid-dark-standard-jap.jpg.rendition.intel.web.480.360.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.s1-text {
+    width: 100%;
+    height: 50%;
+    background: #f3f3f3;
+}
+
+.s1-2 {
+    width: 100%;
+    height: 50%;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.s1-img1 {
+    width: 100%;
+    height: 50%;
+    background: url(/project1/images/vpro-enterprise-hero-16x9.jpg.rendition.intel.web.480.360.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.s1-text1 {
+    width: 100%;
+    height: 50%;
+    background: #f3f3f3;
+}
+
+.s2 {
+    width: 460px;
+    height: 1010px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.s2-1 {
+    width: 100%;
+    height: 35%;
+    background: url(/project1/images/alderlake-mobile-i7-no03-original.png.rendition.intel.web.480.360.webp);
+
+}
+
+.s2-2 {
+    width: 100%;
+    height: 15%;
+    background: #f3f3f3;
+}
+
+.s2-3 {
+    width: 100%;
+    height: 16.6%;
+    display: flex;
+}
+
+.s2img1 {
+    width: 50%;
+    height: 100%;
+    background: #f3f3f3;
+}
+
+.imgs2 {
+    width: 80%;
+    height: 80%;
+    margin-top: 15px;
+    margin-left: 25px;
+    background: url(/project1/images/11th-core-processor-3-family-badges-i9i7i5-left.png.rendition.intel.web.480.360.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.s2text1 {
+    width: 50%;
+    height: 100%;
+    background: #f3f3f3;
+}
+
+.headline {
+    color: #0068b5;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+
+.hd {
+    color: #262626;
+    font-size: 17px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+
+.description {
+    color: #262626;
+    font-size: 16px;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.s2-4 {
+    width: 100%;
+    height: 16.6%;
+    display: flex;
+}
+
+.s2img2 {
+    width: 50%;
+    height: 100%;
+    background: #f3f3f3;
+}
+
+.imgs2-1 {
+    width: 80%;
+    height: 80%;
+    margin-top: 15px;
+    margin-left: 25px;
+    background: url(/project1/images/s4-a3-m-hand-and-cpu-rwd.jpg.rendition.intel.web.480.360.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.s2text2 {
+    width: 50%;
+    height: 100%;
+    background: #f3f3f3;
+}
+
+.s2-5 {
+    width: 100%;
+    height: 16.6%;
+    display: flex;
+}
+
+.s2img3 {
+    width: 50%;
+    height: 100%;
+    background: #f3f3f3;
+}
+
+.imgs2-2 {
+    width: 80%;
+    height: 80%;
+    margin-top: 15px;
+    margin-left: 25px;
+    background: url(/project1/images/cool-eisblock-xpx-3-original-rwd.jpg.rendition.intel.web.480.360.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.s2text3 {
+    width: 50%;
+    height: 100%;
+    background: #f3f3f3;
+}
+
+.s3 {
+    width: 318px;
+    height: 900px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.s3-1 {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.s3-img {
+    width: 100%;
+    height: 60%;
+    background: url(/project1/images/1440x1080.png.rendition.intel.web.480.360.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.s3-text {
+    width: 100%;
+    height: 50%;
+    background: #f3f3f3;
+}
+
+.s3-2 {
+    width: 100%;
+    height: 50%;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.s3-img1 {
+    width: 100%;
+    height: 55%;
+    background: url(/project1/images/xeon-d-processor-badge.png.rendition.intel.web.480.360.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.s3-text1 {
+    width: 100%;
+    height: 47%;
+    background: #f3f3f3;
+}
+
+footer {
+    width: 100%;
+    height: 350px;
+    background: #f3f3f3;
+}
+
+.foot1 {
+    width: 73%;
+    height: 100%;
+    margin-left: 200px;
+    display: flex;
+}
+
+.foot-logo {
+    width: 15%;
+    height: 80%;
+    margin-top: 30px;
+}
+
+.foot-content {
+    width: 85%;
+    height: 80%;
+    margin-top: 30px;
+}
+
+.ft-co {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    right: 30px;
+}
+
+.sm {
+    width: 200px;
+    height: 40px;
+    margin-top: 35px;
+}
+
+.socialmedia {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    right: 30px;
+}
+
+.tm {
+    width: 70%;
+    height: 15px;
+    margin-top: 20px;
+}
+
+.terms {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    right: 30px;
+    font-size: 13px;
+}
+
+.last {
+    font-size: 14px;
+    position: relative;
+    left: 10px;
+}
