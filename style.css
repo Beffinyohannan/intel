@@ -54,7 +54,7 @@ body {
 .r1 {
     width: 30px;
     height: 40%;
-    background: url(/project1/images/personal_1.png);
+    background: url(images/personal_1.png);
     background-size: 20px;
     background-repeat: no-repeat;
     position: relative;
@@ -68,7 +68,7 @@ body {
     padding-top: 20px;
     color: #0068b5;
     font-size: xx-small;
-    background: url(/project1/images/network.png);
+    background: url(images/network.png);
     background-repeat: no-repeat;
     background-size: 20px;
     position: relative;
@@ -86,7 +86,7 @@ body {
 .r3 {
     width: 40px;
     height: 100%;
-    background: url(/project1/images/search.png);
+    background: url(images/search.png);
     background-size: 20px;
     background-repeat: no-repeat;
     position: relative;
@@ -105,7 +105,7 @@ body {
 .second {
     width: 100%;
     height: 400px;
-    background: url(/project1/images/homepage-marquee-bg-blue-steel.jpg.rendition.intel.web.1648.927.webp);
+    background: url(images/homepage-marquee-bg-blue-steel.jpg.rendition.intel.web.1648.927.webp);
     background-repeat: no-repeat;
     display: flex;
     border-bottom: 20px solid;
@@ -124,7 +124,7 @@ body {
     width: 670px;
     height: 360px;
     margin-top: 50px;
-    background: url(/project1/images/diversity-colleagues-watching-laptop.jpg.rendition.intel.web.864.486.jpg);
+    background: url(images/diversity-colleagues-watching-laptop.jpg.rendition.intel.web.864.486.jpg);
     background-repeat: no-repeat;
     background-size: contain;
 
@@ -181,7 +181,7 @@ body {
 .sp1 {
     width: 180px;
     height: 100px;
-    background: url(/project1/images/icon-mis.png);
+    background: url(images/icon-mis.png);
     background-size: 40px;
     background-repeat: no-repeat;
 }
@@ -189,7 +189,7 @@ body {
 .sp2 {
     width: 180px;
     height: 100px;
-    background: url(/project1/images/33_-Check_List-_document_paper_write_note-512.webp);
+    background: url(images/33_-Check_List-_document_paper_write_note-512.webp);
     background-size: 30px;
     background-repeat: no-repeat;
 }
@@ -197,7 +197,7 @@ body {
 .sp3 {
     width: 180px;
     height: 100px;
-    background: url(/project1/images/WebIcons-mySTUFF.png);
+    background: url(images/WebIcons-mySTUFF.png);
     background-size: 40px;
     background-repeat: no-repeat;
 }
@@ -205,7 +205,7 @@ body {
 .sp4 {
     width: 180px;
     height: 100px;
-    background: url(/project1/images/group.png);
+    background: url(images/group.png);
     background-size: 40px;
     background-repeat: no-repeat;
 }
@@ -213,7 +213,7 @@ body {
 .sp5 {
     width: 180px;
     height: 100px;
-    background: url(/project1/images/download.png);
+    background: url(images/download.png);
     background-size: 40px;
     background-repeat: no-repeat;
 }
@@ -243,7 +243,7 @@ section {
 .s1-img {
     width: 100%;
     height: 50%;
-    background: url(/project1/images/arc-sigid-dark-standard-jap.jpg.rendition.intel.web.480.360.jpg);
+    background: url(images/arc-sigid-dark-standard-jap.jpg.rendition.intel.web.480.360.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -265,7 +265,7 @@ section {
 .s1-img1 {
     width: 100%;
     height: 50%;
-    background: url(/project1/images/vpro-enterprise-hero-16x9.jpg.rendition.intel.web.480.360.jpg);
+    background: url(images/vpro-enterprise-hero-16x9.jpg.rendition.intel.web.480.360.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -287,7 +287,7 @@ section {
 .s2-1 {
     width: 100%;
     height: 35%;
-    background: url(/project1/images/alderlake-mobile-i7-no03-original.png.rendition.intel.web.480.360.webp);
+    background: url(images/alderlake-mobile-i7-no03-original.png.rendition.intel.web.480.360.webp);
 
 }
 
@@ -314,7 +314,7 @@ section {
     height: 80%;
     margin-top: 15px;
     margin-left: 25px;
-    background: url(/project1/images/11th-core-processor-3-family-badges-i9i7i5-left.png.rendition.intel.web.480.360.webp);
+    background: url(images/11th-core-processor-3-family-badges-i9i7i5-left.png.rendition.intel.web.480.360.webp);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -365,7 +365,7 @@ section {
     height: 80%;
     margin-top: 15px;
     margin-left: 25px;
-    background: url(/project1/images/s4-a3-m-hand-and-cpu-rwd.jpg.rendition.intel.web.480.360.jpg);
+    background: url(images/s4-a3-m-hand-and-cpu-rwd.jpg.rendition.intel.web.480.360.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -393,7 +393,7 @@ section {
     height: 80%;
     margin-top: 15px;
     margin-left: 25px;
-    background: url(/project1/images/cool-eisblock-xpx-3-original-rwd.jpg.rendition.intel.web.480.360.jpg);
+    background: url(images/cool-eisblock-xpx-3-original-rwd.jpg.rendition.intel.web.480.360.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -422,7 +422,7 @@ section {
 .s3-img {
     width: 100%;
     height: 60%;
-    background: url(/project1/images/1440x1080.png.rendition.intel.web.480.360.webp);
+    background: url(images/1440x1080.png.rendition.intel.web.480.360.webp);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -444,7 +444,7 @@ section {
 .s3-img1 {
     width: 100%;
     height: 55%;
-    background: url(/project1/images/xeon-d-processor-badge.png.rendition.intel.web.480.360.webp);
+    background: url(images/xeon-d-processor-badge.png.rendition.intel.web.480.360.webp);
     background-size: contain;
     background-repeat: no-repeat;
 }
